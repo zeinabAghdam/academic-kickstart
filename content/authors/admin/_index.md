@@ -1,75 +1,52 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: "Aarhus University "
+superuser: true
+authors:
+  - admin
+title: Zeinab Schäfer (née Mortezapouraghdam)
+role: "PostDoc at Aarhus University "
+avatar_filename: avatoon.jpg
+bio: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Artificial Intelligence
+  - Data Science
+  - Healthcare & AI
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
+Hi, 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+First of all, you can call me ***Sahar*** if you wish. Since August 2019, I am a PostDoc student at** [University of Aarhus](https://cs.au.dk/da/)**, institute of Datalogi in Denmark. I received my PhD in the field of Computational Neuroscience from the faculty of Medicine (**[SNNU](http://www.snnu.uni-saarland.de/)**) of **Saarland University** in 2019. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My current research at Aarhus University centers around analysis of healthcare data and AI (Learn more about the projects in HealthD360). In particular, I am interested in the role of AI in prevention of Diabetic Foot Ulcer and Amputation. How general socio-economical and medical history of diabetic patients can be used to stratify the population of patients with a high risk of developing DFU/amputation. This is in particular helpful and meaninful given the available centralized registry information of all citizen in Denmark. 
+
+Aside from that, I love traveling, baking, painting and recently an enormouse interest in perfumery. You may hear from a hobby project of mine soon :). 
+
+I am interested in collaborating in fields of Data science, Healthcare and AI.
