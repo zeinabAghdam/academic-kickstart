@@ -16,8 +16,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: linkedin-in
-    icon_pack: fas
+  - icon: linkedin
+    icon_pack: fab
     link: " www.linkedin.com/in/zeinab-schaefer"
   - icon: github
     icon_pack: fab
