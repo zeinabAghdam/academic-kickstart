@@ -6,7 +6,7 @@ authors:
   - admin
 title: Zeinab Schäfer (née Mortezapouraghdam)
 role: "PostDoc at Aarhus University "
-avatar_filename: dsc_0238.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
