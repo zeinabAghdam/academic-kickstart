@@ -38,4 +38,4 @@ My current research at Aarhus University centers around analysis of healthcare d
 
 Aside from that, I love traveling (not in the middle of a pandemic though), baking, painting and recently an interest in perfumery. You may hear from a hobby project of mine soon :). 
 
-I am interested in collaborating in fields of Data science, Healthcare and AI.
+I am interested in collaborating in the fields of Data Science, Healthcare, and AI.
