@@ -5,7 +5,7 @@ summary: The goal is to study the risk factors of obesity in adulthood using
   childhood data.
 draft: false
 featured: false
-external_link: '""'
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
