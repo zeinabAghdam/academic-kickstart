@@ -7,14 +7,14 @@ summary: In this project we study the risk factors for developing diabetic foot
   in patients.
 draft: false
 featured: false
-external_link: '""'
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
 As part of the HealthD360 project we aim to develop a system that is able to automatically analyze the state of
-wounds for patients susuffering from DFU based on image data. We want to enable patients to take pictures using
+wounds for patients suffering from DFU based on image data. We want to enable patients to take pictures using
 a mobile application which is being developed by other project partners in the HealthD360 project. Based on the
 image types (thermal or normal RGB), I would like to explore different techniques for wound area estimation
 and its state using deep learning approaches.
