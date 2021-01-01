@@ -18,7 +18,7 @@ social:
     link: "#contact"
   - icon: linkedin
     icon_pack: fab
-    link: " www.linkedin.com/in/zeinab-schaefer"
+    link: www.linkedin.com/in/zeinab-schaefer
   - icon: github
     icon_pack: fab
     link: https://github.com/zeinabAghdam
