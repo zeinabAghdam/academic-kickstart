@@ -3,7 +3,6 @@ title: In progress
 date: 2021-01-01T14:46:59.128Z
 draft: false
 featured: false
-external_link: https://zeinab.netlify.app
 image:
   filename: featured
   focal_point: Smart
