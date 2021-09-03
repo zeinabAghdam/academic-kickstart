@@ -1,5 +1,5 @@
 ---
-title: Study of Foot Ulcer and Amputation in HealthD360
+title: "Amputation risk in patients with Type 2 Diabetes "
 date: 2021-01-01T15:34:42.340Z
 summary: In this project we study the risk factors for developing diabetic foot
   ulcer and amputation in patients with diabetes. The goal is to design
@@ -7,18 +7,12 @@ summary: In this project we study the risk factors for developing diabetic foot
   in patients.
 draft: false
 featured: false
-external_link: ""
+external_link: " "
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-As part of the HealthD360 project we aim to develop a system that is able to automatically analyze the state of
-wounds for patients suffering from DFU based on image data. We want to enable patients to take pictures using
-a mobile application which is being developed by other project partners in the HealthD360 project. Based on the
-image types (thermal or normal RGB), I would like to explore different techniques for wound area estimation
-and its state using deep learning approaches.
+As part of HealthD360, one of the goals is to create a model based on different data modalities (EHR, images, self-tracking data, etc.) to predict the risk of amputation in patients with diabetes. We have access to registry information of more than 240,000 patients with diabetes in Denmark. In our first study we used the available registry data and applied a risk analysis study to determine factors that increase the risk of amputation in patients with diabetes. National registry information have their own limitations and are not sufficient for such predictions. In the next phase of this project, we hope to get access to more data rsources (images, EHR) for better and accurate predictive models for prediction of amputation risk. [`Check`](https://www.frontiersin.org/articles/10.3389/fmed.2020.601602/full) our initial results in Frontiers, journal of dermatology where we employ ML models and survival analysis to study the risk of amputation. 
 
-In addition to images, we use national registry of patients with diabetes to investigate different social-economic factors that increase the risk of DFU and amputation. In our first study we assessed the risk of DFU and amputation of more than two hundred thousand patients with diabetes in denmark using survival analysis and ML model. The results are under publication (accepted) in the Frontiers, journal of dermatology. 
-
-For more information about the projects, see [here](https://healthd360.dk/).
+The second ongoing study is about the effect of GLP-1 receptor agonist and whether prolonged and continuouse intake of the medication could provide a protective effect against amputation in patients with type 2 diabetes.
